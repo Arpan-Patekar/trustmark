@@ -1,4 +1,5 @@
 # TrustMark — Digital Sports Media Protection
+![TrustMark Dashboard](Screenshot.png)
 
 AI-powered invisible watermarking system to protect and authenticate official sports media content.
 
